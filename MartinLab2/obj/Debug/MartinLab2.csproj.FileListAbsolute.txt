@@ -1,0 +1,11 @@
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\bin\Debug\MartinLab2.exe.config
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\bin\Debug\MartinLab2.exe
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\bin\Debug\MartinLab2.pdb
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.Form1.resources
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.Properties.Resources.resources
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.csproj.GenerateResource.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.exe
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\MartinLab2\MartinLab2\obj\Debug\MartinLab2.pdb
