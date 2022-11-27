@@ -26,6 +26,7 @@ namespace MartinLab2
         //the purpose of the following code is to close the program using the Exit button.
         private void btnExit_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Hello World", "Dev Tools Homework 5");
             this.Close();
         }
 
